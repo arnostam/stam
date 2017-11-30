@@ -1,0 +1,19 @@
+.individuals a {
+  float: left;
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+  background-color: #ddd;
+  color: #666;
+  text-align: center;
+  line-height: 200px;
+}
+
+.individuals a img {
+  min-width: 100%;
+  min-height: : 100%;
+}
+
+a:hover {
+  color: #ff4c00;
+}
