@@ -20,4 +20,9 @@
 
 a:hover {
   color: #ff4c00;
+  background-color: #eee;
+  background-position: top;
+  width: 210px;
+  margin: 5px;
+  height: 210px;
 }
